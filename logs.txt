@@ -1,0 +1,17 @@
+2020-10-18T16:10:25.660616+00:00 app[api]: Initial release by user joao.godoi@aluno.faculdadeimpacta.com.br
+2020-10-18T16:10:25.660616+00:00 app[api]: Release v1 created by user joao.godoi@aluno.faculdadeimpacta.com.br
+2020-10-18T16:10:25.761513+00:00 app[api]: Enable Logplex by user joao.godoi@aluno.faculdadeimpacta.com.br
+2020-10-18T16:10:25.761513+00:00 app[api]: Release v2 created by user joao.godoi@aluno.faculdadeimpacta.com.br
+2020-10-18T16:10:37.000000+00:00 app[api]: Build started by user joao.godoi@aluno.faculdadeimpacta.com.br
+2020-10-18T16:11:03.258589+00:00 app[api]: Release v3 created by user joao.godoi@aluno.faculdadeimpacta.com.br
+2020-10-18T16:11:03.258589+00:00 app[api]: Deploy 5597a30a by user joao.godoi@aluno.faculdadeimpacta.com.br
+2020-10-18T16:11:03.272251+00:00 app[api]: Scaled to web@1:Free by user joao.godoi@aluno.faculdadeimpacta.com.br
+2020-10-18T16:11:06.555959+00:00 heroku[web.1]: Starting process with command `python primos.py`
+2020-10-18T16:11:09.096180+00:00 app[web.1]: * Serving Flask app "primos" (lazy loading)
+2020-10-18T16:11:09.096220+00:00 app[web.1]: * Environment: production
+2020-10-18T16:11:09.096318+00:00 app[web.1]: WARNING: Do not use the development server in a production environment.
+2020-10-18T16:11:09.096394+00:00 app[web.1]: Use a production WSGI server instead.
+2020-10-18T16:11:09.096458+00:00 app[web.1]: * Debug mode: off
+2020-10-18T16:11:09.107949+00:00 app[web.1]: * Running on http://0.0.0.0:39620/ (Press CTRL+C to quit)
+2020-10-18T16:11:09.642930+00:00 heroku[web.1]: State changed from starting to up
+2020-10-18T16:11:12.000000+00:00 app[api]: Build succeeded
